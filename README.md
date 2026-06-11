@@ -1,4 +1,4 @@
-#ValidEmX
+# ValidEmX
 ValidEmX is a user-friendly Website made with Html, Css and brought to live for validating user's emails by using JavaScript. It is one of my begineer project for learning Web
 development. 
 
